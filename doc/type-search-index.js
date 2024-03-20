@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Spotify","l":"Cancion"},{"p":"Spotify","l":"Cuenta"},{"p":"Spotify","l":"EnBucle"},{"p":"Spotify","l":"Like"},{"p":"Spotify","l":"Personalizada"},{"p":"Spotify","l":"Playlist"},{"p":"Spotify","l":"Premium"},{"p":"Spotify","l":"ReproductorSpotify"}];updateSearchResults();
